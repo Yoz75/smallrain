@@ -1,0 +1,1 @@
+gcc -o smallrain.exe smallrain.c
