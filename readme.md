@@ -1,0 +1,1 @@
+I was bored so made this. I am not a pro in C (that is probably my first project in pure C) \(>_<)/
